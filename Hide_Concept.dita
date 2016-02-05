@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_gjd_yxc_w5">
+ <title>Hide</title>
+ <shortdesc>The hide function temporariy removes nodes from the dataset. </shortdesc>
+ <prolog product="CWRC-Writer">
+  <author>Chelsea Miya</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates>
+   <created date="2016-02-03"></created>
+   <revised modified="2016-02-03"></revised>
+  </critdates>
+  <metadata product="stand-alone">
+   <audience audience="novice"></audience>
+   <audience audience="CWRCMember"></audience>
+  </metadata>
+ </prolog>
+ <conbody>
+  <p>Once removed, Hidden nodes no longer appear in the shelf or the discard bin.<note>However, Hidden nodes are not permanently deleted from the dataset and can be retrieved using the Commands Tab.</note><note>Unlike most other Verbs, this function cannot be executed directly in the Graph. To Hide nodes, the user must execute the Verb in the Commands Tab.</note></p>
+  <p></p>
+ </conbody>
+</concept>

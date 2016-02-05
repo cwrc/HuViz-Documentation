@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_f2m_jfd_w5">
+    <title>Pin Manually</title>
+    <shortdesc>Pin nodes using the "drag and drop" technique.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context></context>
+        <steps id="steps_tfg_lfd_w5">
+            <step>
+                <cmd>"Click and hold" to grab a graphed node.</cmd>
+            </step>
+            <step>
+                <cmd>Without releasing the mouse, drag the node to an unmarked area.</cmd>
+            </step>
+            <step>
+                <cmd>Release the mouse to "drop" the node and fix in place.</cmd>
+            </step>
+        </steps>
+        <postreq>Click and drag the node a second time to Unpin (release) the node.</postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_k2g_5yk_w5">
+    <title>Select Nodes Manually</title>
+    <shortdesc>Select nodes directly in the Graph with the following steps.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps-unordered id="steps-unordered_jsf_czk_w5">
+            <step>
+                <cmd>In the graph, click node once to Select.</cmd>
+                <info>The node will turn Bold, indicated that it has been Selected.</info>
+            </step>
+            <step>
+                <cmd>Click a second time to Deselect.</cmd>
+                <info>The node's appearance will change back to normal, indicating that is in a Deselected state.</info>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

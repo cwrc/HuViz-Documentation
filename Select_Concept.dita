@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ivk_44k_w5">
+ <title>Select</title>
+ <shortdesc>The Select function selects nodes to execute a command.</shortdesc>
+ <conbody>
+  <p>By default, nodes are in a dormant or Deselected state. To perform commands, nodes must first be switched to "on" mode using the Select function.</p>
+  <p>Once nodes have been selected, future actions will be performed only on those nodes and can be executed by clicking a verb or sequence of verbs.</p>
+  <p>Selected nodes can be identified in three ways:<table frame="all" rowsep="1" colsep="1" id="table_ypr_vxk_w5">
+   <title>Identifying Selected Nodes:</title>
+   <tgroup cols="2">
+    <colspec colname="c1" colnum="1" colwidth="1*"></colspec>
+    <colspec colname="c2" colnum="2" colwidth="5.67*"></colspec>
+    <thead>
+     <row>
+      <entry>Location</entry>
+      <entry>Characteristic</entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry>Set/Class Bins</entry>
+      <entry>Selected Set or Class types will have a darker shade</entry>
+     </row>
+     <row>
+      <entry>Current Command Line</entry>
+      <entry>
+       <ul id="ul_g11_gyk_w5">
+        <li>If nodes were selected by type, the name of the Set or Class type will be listed.</li>
+        <li>If nodes were selected in the Graph (by manually clicking the nodes), an abreviated version of the node names will be listed.</li>
+       </ul>
+      </entry>
+     </row>
+     <row>
+      <entry>Graph</entry>
+      <entry>Selected nodes will be bolded</entry>
+     </row>
+    </tbody>
+   </tgroup>
+   </table></p>
+  <p>Nodes can be selected both manually and using the Command Tab.</p>
+ </conbody>
+</concept>

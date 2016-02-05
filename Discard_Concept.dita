@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_n2d_lkg_x5">
+ <title>Discard</title>
+ <shortdesc>Remove nodes from the central Graph or Shelf and send to the Discard bin.</shortdesc>
+ <prolog product="CWRC-Writer">
+  <author>Chelsea Miya</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates>
+   <created date="2016-02-03"></created>
+   <revised modified="2016-02-03"></revised>
+  </critdates>
+  <metadata product="stand-alone">
+   <audience audience="novice"></audience>
+   <audience audience="CWRCMember"></audience>
+  </metadata>
+ </prolog>
+ <conbody>
+  <p>Nodes can be discarded either manually or using the Commands Tab.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_u4j_gth_v5">
+    <title>Shelve Nodes in Command Tab</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>Nodes can be shelved two ways. Shelve nodes using the Command Tab with the following steps.<p></p></context>
+        <steps>
+            <step>
+                <cmd>Activate desired nodes.</cmd>
+            </step>
+            <step>
+                <cmd>Under Verbs, Click "Shelve."</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

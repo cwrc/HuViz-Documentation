@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_t4k_gkl_w5">
+ <title>Script</title>
+ <shortdesc>The Script feature is a textual record of the sequence of commands which were performed to produce the current state of the display.</shortdesc>
+ <conbody>
+  <p><b><i>Coming Soon.</i></b></p>
+ </conbody>
+</concept>

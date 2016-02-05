@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_xmf_kzd_w5">
+    <title>Execute Verbs in the Command Tab</title>
+    <shortdesc>Actions are automatically executed when a selected Set or Class type is combined with a Verb.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <note>The elements of a command are represented by the formula: <b>Verb+ Set/Class</b>. Users can keep track of these elements using the <b>Current Command box</b>, located near the top of the Command Tab. The Current Command box changes according to which Set/Class types and Verbs are in a Selected state at any given time. If no Set/Class types or Verbs have been Selected, it will display the greyed out formula Verb + Set/Class to indicate these elments are empty. </note>
+            <p>Before a command can be performed, the user must first Select the desired nodes. In the Graph, nodes are selected manually by clicking on individual nodes. In the Command Tab, nodes are selected in two ways:<ul id="ul_j55_14k_w5">
+                <li>By Set or Class type</li>
+                <li>Using the Like (search) function:</li>
+                </ul></p>
+            <p>To perform commands according to Set or Class type use the following steps:</p>
+        </context>
+        <steps id="steps_elp_lb2_w5">
+            <step>
+                <cmd>Click on the drawer of the desired Set or Class type to select contents. The drawer will turn a darker shade and the name of the Set or Class type will appear under the Current Command.</cmd>
+                <info>Actions can be performed on multiple Set or Class types. Select as many drawers as needed before proceeding to Step 2.</info>
+            </step>
+            <step>
+                <cmd>Click on a <cmdname>Verb</cmdname> to complete the formula and execute the action.</cmd>
+            </step>
+        </steps>
+        <postreq>Set or Class types in a Selected state will remain so until either:<ul id="ul_o4j_t12_w5">
+            <li>The drawer of the Set or Class type is clicked a second time to Deselect it.</li>
+            <li>The nodes are Discarded.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

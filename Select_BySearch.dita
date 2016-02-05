@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_xkt_12t_w5">
+    <title>Select Nodes by Search</title>
+    <shortdesc>Select nodes using the Like bar to perform a text search.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Similar to selecting nodes by Class type, the Like function is used to filter nodes according to specific attributes. In this case, the attributes are text-based. The Like function searches the database of <i>node names</i> for textual matches. Matching nodes are then selected to execute a Command.<note>The Like bar offers full Regex power. For example, searching "19\d\d" will return matches for numbers in the range 1900-1999.</note><note>ONLY the <i>node names</i> are searched. The Like function does NOT perform searches on other features like Set/Class types or Snippet text.</note></p>
+        </context>
+        <steps id="steps_syp_vgt_w5">
+            <step>
+                <cmd>Type a search term into the Like bar.</cmd>
+            </step>
+            <step>
+                <cmd>Click a Set or Class type to choose a category of nodes to perform the search on. </cmd>
+                <info>Text searches can be performed on <i>any</i> of the Set or Class types. To search <i>all</i> nodes for matches, click All under Sets.</info>
+            </step>
+            <step>
+                <cmd>Click on the desired Verb to choose an action.</cmd>
+            </step>
+            <step>
+                <cmd>Click the GO! button to execute the command on the matching nodes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
