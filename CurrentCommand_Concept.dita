@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_oxr_pbh_x5">
+ <title>Current Command</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>The elements of a command are represented by the formula: <b>Verb+ Set/Class</b>. Users can keep track of these elements using the <b>Current Command box</b>, located near the top of the Command Tab. The Current Command box changes according to which Set/Class types and Verbs are in a Selected state at any given time. If no Set/Class types or Verbs have been Selected, it will display the greyed out formula Verb + Set/Class to indicate these elments are empty. </p>
+ </conbody>
+</concept>

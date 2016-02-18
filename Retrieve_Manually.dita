@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
-<task id="task_xmf_kzd_w5">
-    <title>Execute Verbs in the Commands Tab</title>
-    <shortdesc>Actions are automatically executed when a selected Set or Class type is combined with a Verb.</shortdesc>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ic1_sjh_v5">
+    <title>Retrieve Manually</title>
+    <shortdesc>Retrieve Discarded nodes using the "drag and drop" method with the following steps</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
         <copyright>
@@ -19,14 +19,18 @@
         </metadata>
     </prolog>
     <taskbody>
-        <context></context>
-        <steps id="steps_elp_lb2_w5">
+        <context>
+            <p></p>
+        </context>
+        <steps>
             <step>
-                <cmd>Select nodes, either manually or by clicking on a Set or Class type.</cmd>
+                <cmd>Click and hold the node, illuminating the circular green Shelf.</cmd>
             </step>
             <step>
-                <cmd>Click on a Verb to complete the formula and execute the action.</cmd>
-                <info>Continue clicking on Verbs to execute a sequence of actions.</info>
+                <cmd>Without releasing the clicker, drag the node to the Shelf.</cmd>
+            </step>
+            <step>
+                <cmd>Release the clicker to drop the node and execute the action.</cmd>
             </step>
         </steps>
     </taskbody>

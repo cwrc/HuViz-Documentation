@@ -27,11 +27,11 @@
                 <cmd>Click the Commands tab to open the main control panel.</cmd>
             </step>
             <step>
-                <cmd>At the top of the panel, click the drop down menu labelled "Pick a Dataset."<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A233be3ee-eaa1-42d7-811e-795412ccaf08/datastream/OBJ/view" id="image_tsz_wms_w5"></image></cmd>
+                <cmd>At the top of the panel, click the drop down menu labelled "Pick a Dataset."<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Af4ef8a39-5d38-4605-b01e-af619065f53e/datastream/OBJ/view" id="image_llq_5hw_1v"></image></cmd>
             </step>
             <step>
                 <cmd>Hover over specific datasets to view a list of attributes.</cmd>
-                <info>The number of nodes, edges and predicates are a general indication of the size and complexity of the network.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A0ab219fe-c517-4104-a2c5-b8266fb509bc/datastream/OBJ/view" id="image_o2l_z4s_w5"></image></info>
+                <info>The number of nodes, edges and predicates are a general indication of the size and complexity of the network.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac53894aa-d98a-4cc7-90db-ae823eff0f3d/datastream/OBJ/view" id="image_krz_p3w_1v"></image></info>
             </step>
             <step>
                 <cmd>Click on the dataset to load.</cmd>

@@ -3,10 +3,58 @@
 <concept id="concept_ivk_44k_w5">
  <title>Select</title>
  <shortdesc>The Select function selects nodes to execute a command.</shortdesc>
+ <prolog product="CWRC-Writer">
+  <author>Chelsea Miya</author>
+  <copyright>
+   <copyryear year="2014"></copyryear>
+   <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+  </copyright>
+  <critdates>
+   <created date="2016-02-03"></created>
+   <revised modified="2016-02-03"></revised>
+  </critdates>
+  <metadata product="stand-alone">
+   <audience audience="novice"></audience>
+   <audience audience="CWRCMember"></audience>
+  </metadata>
+ </prolog>
  <conbody>
-  <p>By default, nodes are in a dormant or Deselected state. To perform commands, nodes must first be switched to "on" mode using the Select function.</p>
-  <p>Once nodes have been selected, future actions will be performed only on those nodes and can be executed by clicking a verb or sequence of verbs.</p>
-  <p>Selected nodes can be identified in three ways:<table frame="all" rowsep="1" colsep="1" id="table_ypr_vxk_w5">
+  <p>Before a command can be performed, the user must first Select the desired nodes. </p>
+  <p>There are <b>three</b> ways of Selecting nodes:<table frame="all" rowsep="1" colsep="1" id="table_fbs_jzg_x5">
+   <title>Methods of Selecting Nodes</title>
+   <tgroup cols="2">
+    <colspec colname="c1" colnum="1" colwidth="1*"></colspec>
+    <colspec colname="c2" colnum="2" colwidth="5.67*"></colspec>
+    <thead>
+     <row>
+      <entry>Workspace</entry>
+      <entry>Method</entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry>Graph</entry>
+      <entry>
+       <ul id="ul_ifr_rzg_x5">
+        <li>Manually, using the "drag and drop" technique</li>
+       </ul>
+      </entry>
+     </row>
+     <row>
+      <entry>Commands Tab</entry>
+      <entry>
+       <ul id="ul_ccs_jzg_x5">
+        <li>By Set or Class type</li>
+        <li>Using the Like (search) function</li>
+       </ul>
+      </entry>
+     </row>
+     <row></row>
+    </tbody>
+   </tgroup>
+   </table></p>
+  <p>Once nodes have been selected, future actions will be performed only on those nodes and can be executed by clicking a Verb or sequence of Verbs.</p>
+  <p>It is easy to differentiate between Selected and Unselected nodes:<table frame="all" rowsep="1" colsep="1" id="table_ypr_vxk_w5">
    <title>Identifying Selected Nodes:</title>
    <tgroup cols="2">
     <colspec colname="c1" colnum="1" colwidth="1*"></colspec>
@@ -20,7 +68,11 @@
     <tbody>
      <row>
       <entry>Set/Class Bins</entry>
-      <entry>Selected Set or Class types will have a darker shade</entry>
+      <entry>
+       <ul id="ul_hf2_31h_x5">
+        <li>Selected Set or Class types will have a darker shade.</li>
+       </ul>
+      </entry>
      </row>
      <row>
       <entry>Current Command Line</entry>
@@ -33,11 +85,14 @@
      </row>
      <row>
       <entry>Graph</entry>
-      <entry>Selected nodes will be bolded</entry>
+      <entry>
+       <ul id="ul_akx_31h_x5">
+        <li>Selected nodes will be bolded.</li>
+       </ul>
+      </entry>
      </row>
     </tbody>
    </tgroup>
    </table></p>
-  <p>Nodes can be selected both manually and using the Command Tab.</p>
  </conbody>
 </concept>

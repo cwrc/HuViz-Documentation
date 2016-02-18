@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="concept_xmx_1kk_w5">
- <title>Shelve_Concept</title>
- <shortdesc>Shelved nodes are returned to the outer ring that orbits the central graph. </shortdesc>
+<concept id="concept_nz4_tth_x5">
+ <title>Label</title>
+ <shortdesc>The Label function displays the node name.</shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
   <copyright>
@@ -19,7 +19,6 @@
   </metadata>
  </prolog>
  <conbody>
-  <p>Shelving a node will remove it from the central Graph or Discard bin and place it back on the Shelf.<note>Hidden nodes can also be re-Shelved using the Commands Tab.</note></p>
-  <p>Nodes can be shelved both manually and in the Commands Tab.</p>
+  <p>When the cursor hovers over a node, the node name will automatically appear. To view the name of a node or multiple nodes at all times, execute the Verb Label in the Commands Tab.</p>
  </conbody>
 </concept>

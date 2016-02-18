@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_hwl_tnc_w5">
     <title>Select All</title>
-    <shortdesc>The all function is used to perform actions on all nodes at the same time.</shortdesc>
+    <shortdesc>The All function is used to perform actions on all nodes at the same time.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
         <copyright>

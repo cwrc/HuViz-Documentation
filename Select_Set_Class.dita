@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_fbt_5yg_x5">
+    <title>Select by Set or Class</title>
+    <shortdesc>Select nodes by Set or Class using the Commands Tab.</shortdesc>
+    <prolog product="CWRC-Writer">
+        <author>Chelsea Miya</author>
+        <copyright>
+            <copyryear year="2014"></copyryear>
+            <copyrholder>Use of this public-domain resource is governed by the Creative Commons Attribution-NonCommercial 4.0 International License</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2016-02-03"></created>
+            <revised modified="2016-02-03"></revised>
+        </critdates>
+        <metadata product="stand-alone">
+            <audience audience="novice"></audience>
+            <audience audience="CWRCMember"></audience>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps-unordered id="steps-unordered_g4h_y1h_x5">
+            <step>
+                <cmd>Click on the individual drawer of the desired Set or Class type to select contents. </cmd>
+                <info>Actions can be performed on multiple Set or Class types. Select as many drawers as needed before executing the action by clicking a Verb.</info>
+            </step>
+        </steps-unordered>
+        <result>The drawer will turn a darker shade and the name of the Set or Class type will appear under the Current Command. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3A38f6849c-9aca-45b4-b7ab-8a6e34b14333/datastream/OBJ/view" id="image_ery_fvw_1v"></image><ul id="ul_i1n_csw_1v">
+            <li>If a Class type was selected, the Edge types associated with that Class will appear as drawers in the Edges of Selected Nodes bin.</li>
+            </ul><image href="http://beta.cwrc.ca/islandora/object/cwrc%3A6d4fc1bc-f40c-4225-b337-159cd56bd0a5/datastream/OBJ/view" id="image_lkq_5vw_1v"></image></result>
+        <postreq>Set or Class types in a Selected state will remain so until either:<ul id="ul_o4j_t12_w5">
+            <li>The drawer of the Set or Class type is clicked a second time to Deselect it.</li>
+            <li>The nodes are Discarded.</li>
+            </ul></postreq>
+    </taskbody>
+</task>

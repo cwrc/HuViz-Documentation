@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_k2g_5yk_w5">
     <title>Select Nodes Manually</title>
-    <shortdesc>Select nodes directly in the Graph with the following steps.</shortdesc>
+    <shortdesc>Select nodes by hand with the following steps..</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
         <copyright>
@@ -21,16 +21,21 @@
     <taskbody>
         <context>
             <p></p>
+            <note>All visible nodes, regardless of location (Shelf, Graph and Discard Bin), can be Selected manually.</note>
         </context>
-        <steps-unordered id="steps-unordered_jsf_czk_w5">
+        <steps id="steps_tdq_q2h_x5">
             <step>
-                <cmd>In the graph, click node once to Select.</cmd>
-                <info>The node will turn Bold, indicated that it has been Selected.</info>
+                <cmd>Hover over desired Node.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab0851b56-88ff-4195-9737-7dcb043c44c1/datastream/OBJ/view" id="image_gfh_rhh_x5"></image></cmd>
             </step>
             <step>
-                <cmd>Click a second time to Deselect.</cmd>
-                <info>The node's appearance will change back to normal, indicating that is in a Deselected state.</info>
+                <cmd>Click node once to Select.</cmd>
+                <info>The node will turn Bold, indicated that it has been Selected.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac776fa91-826c-4cef-832a-778abb8fbe57/datastream/OBJ/view" id="image_iz1_dkh_x5"></image></info>
             </step>
-        </steps-unordered>
+        </steps>
+        <postreq>
+            <ul id="ul_xmx_t2h_x5">
+                <li>Click node a second time to Unselect. The node's appearance will change back to normal, indicating that is in a Unselected state.</li>
+            </ul>
+        </postreq>
     </taskbody>
 </task>
