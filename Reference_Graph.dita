@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_o2x_vqd_w5">
- <title>Working in the Graph</title>
+ <title>Using the Graph</title>
  <shortdesc>Execute commands using the "drag and drop" technique.</shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
@@ -23,4 +23,7 @@
   <p>Almost all actions can be performed on the nodes either through a single click or a "drag and drop."</p>
   <note>The exception is Label and Hide, which can only be performed in the Command Tab.</note>
  </conbody>
+ <related-links>
+  <link href="Reference_CommandsTab.dita"></link>
+ </related-links>
 </concept>

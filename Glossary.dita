@@ -113,13 +113,4 @@
     <glossterm>Triple</glossterm>
     <glossdef>Formal statement describing a relationship in terms of a subject-predicate-object.</glossdef>
   </glossentry>
-  <glossentry id="glossentry_nkn_tlh_x5">
-    <glossterm>Linked Data</glossterm>
-  </glossentry>
-  <glossentry id="glossentry_fcd_5lh_x5">
-    <glossterm>Subject</glossterm>
-  </glossentry>
-  <glossentry id="glossentry_xtm_5lh_x5">
-    <glossterm>Object</glossterm>
-  </glossentry>
 </glossgroup>

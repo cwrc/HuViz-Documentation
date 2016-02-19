@@ -33,4 +33,8 @@
         </steps>
         <postreq>Click and drag the node a second time to Unpin (release) the node.</postreq>
     </taskbody>
+    <related-links>
+        <link href="Pin_Concept.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
 </task>

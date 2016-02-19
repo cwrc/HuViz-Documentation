@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_msq_lxh_v5">
-    <title>Activate Nodes Manually</title>
+    <title>Activate Manually</title>
     <shortdesc>Graph nodes using the "drag and drop" method with the following steps.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
@@ -30,4 +30,8 @@
         </steps>
         <result>Node has linked with a Hub and is now in an Active state.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A38961bee-08b0-4273-a63a-6b095ef7d411/datastream/OBJ/view" id="image_xzw_yjg_x5"></image></result>
     </taskbody>
+    <related-links>
+        <link href="Activate_Concept.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
 </task>

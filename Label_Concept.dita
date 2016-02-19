@@ -19,6 +19,9 @@
   </metadata>
  </prolog>
  <conbody>
-  <p>When the cursor hovers over a node, the node name will automatically appear. To view the name of a node or multiple nodes at all times, execute the Verb Label in the Commands Tab.</p>
+  <p>When the cursor hovers over a node, the node name will automatically appear above. To keep the labels visible at all times, execute the Verb Label in the Commands Tab.</p>
  </conbody>
+ <related-links>
+  <link class="- topic/link " href="Command_Execute_Verbs.dita"></link>
+ </related-links>
 </concept>

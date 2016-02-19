@@ -22,4 +22,10 @@
   <p>Once removed, Hidden nodes no longer appear in the shelf or the discard bin.<note>However, Hidden nodes are not permanently deleted from the dataset and can be retrieved using the Commands Tab.</note><note>Unlike most other Verbs, this function cannot be executed directly in the Graph. To Hide nodes, the user must execute the Verb in the Commands Tab.</note></p>
   <p></p>
  </conbody>
+ <related-links>
+  <link href="Hide.dita"></link>
+  <link href="Command_Execute_Verbs.dita"></link>
+  <link href="Shelve_Concept.dita"></link>
+  <link href="Shelve_Command.dita"></link>
+ </related-links>
 </concept>

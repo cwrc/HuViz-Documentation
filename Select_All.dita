@@ -32,4 +32,12 @@
             </step>
         </steps-unordered>
     </taskbody>
+    <related-links>
+        <link href="Select_Concept.dita"></link>
+        <link href="Select_Manually.dita"></link>
+        <link href="Select_Set_Class.dita"></link>
+        <link href="Select_BySearch.dita"></link>
+        <link href="Reference_CommandsTab.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
 </task>

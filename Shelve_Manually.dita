@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ds3_bqh_v5">
-    <title>Shelving Nodes</title>
+    <title>Shelve Manually</title>
     <shortdesc>Shelve nodes using the "drag and drop" method with the following steps.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
@@ -31,4 +31,8 @@
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="Shelve_Concept.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
 </task>

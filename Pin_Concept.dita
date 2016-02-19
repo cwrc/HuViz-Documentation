@@ -24,4 +24,8 @@
     <note>Only graphed nodes can be pinned. The Pin function cannot be executed on nodes that are in a shelved or discarded state.</note>
     <note>Graphed nodes can be Pinned in any area that is not designated as part of the Shelf or Discard Bin. This includes the area both inside and outside the central ring.</note>
   </body>
+  <related-links>
+    <link href="Pin_Manually.dita"></link>
+    <link href="Command_Execute_Verbs.dita"></link>
+  </related-links>
 </topic>

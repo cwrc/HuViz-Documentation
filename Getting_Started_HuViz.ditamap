@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Getting Started in HuViz</title>
+ <topicref href="Load_Dataset.dita"/>
+ <topicref href="Select.ditamap" format="ditamap"/>
+ <topicref href="Activate.ditamap" format="ditamap"/>
+ <topicref href="Shelve.ditamap" format="ditamap"/>
+ <topicref href="Discard_Retrieve.ditamap" format="ditamap"/>
+ <topicref href="Hide_Concept.dita"/>
+ <topicref href="Pin.ditamap" format="ditamap"/>
+ <topicref href="Label_Concept.dita"/>
+ <topicref href="Command_Execute_Verbs.dita"/>
+ <topicref href="Reset.dita"/>
+</map>

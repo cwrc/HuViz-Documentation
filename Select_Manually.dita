@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_k2g_5yk_w5">
-    <title>Select Nodes Manually</title>
+    <title>Select Manually</title>
     <shortdesc>Select nodes by hand with the following steps..</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
@@ -38,4 +38,12 @@
             </ul>
         </postreq>
     </taskbody>
+    <related-links>
+        <link href="Select_Concept.dita"></link>
+        <link href="Select_All.dita"></link>
+        <link href="Select_Set_Class.dita"></link>
+        <link href="Select_BySearch.dita"></link>
+        <link href="Reference_CommandsTab.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
 </task>

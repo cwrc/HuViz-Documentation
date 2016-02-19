@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_xkt_12t_w5">
-    <title>Select Nodes by Search</title>
+    <title>Select by Search</title>
     <shortdesc>Select nodes using the Like bar to perform a text search.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
@@ -37,4 +37,12 @@
         </steps>
         <result>In this example, the user searched for ALL nodes LIKE "University" and then executed the VERB Activate. As a result, nodes with names containing "University" were pulled into the graph.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A56f17ece-2ccc-4ec3-a2ae-6d8663ce27e4/datastream/OBJ/view" id="image_tkk_qpw_1v"></image></result>
     </taskbody>
+    <related-links>
+        <link href="Select_Concept.dita"></link>
+        <link href="Select_All.dita"></link>
+        <link href="Select_Manually.dita"></link>
+        <link href="Select_Set_Class.dita"></link>
+        <link href="Reference_CommandsTab.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
 </task>

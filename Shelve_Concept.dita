@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_xmx_1kk_w5">
- <title>Shelve_Concept</title>
- <shortdesc>Shelved nodes are returned to the outer ring that orbits the central graph. </shortdesc>
+ <title>Shelve</title>
+ <shortdesc>The Shelve function returns nodes to the the outer ring that orbits the central graph. </shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
   <copyright>
@@ -19,7 +19,11 @@
   </metadata>
  </prolog>
  <conbody>
-  <p>Shelving a node will remove it from the central Graph or Discard bin and place it back on the Shelf.<note>Hidden nodes can also be re-Shelved using the Commands Tab.</note></p>
-  <p>Nodes can be shelved both manually and in the Commands Tab.</p>
+  <p>Shelving a node will place a nodes back on the Shelf, regardless of whether it is in a Graphed, Hidden or Discarded State.</p>
+  <p>Nodes can be shelved both manually and in the Commands Tab.<note>To shelve ONLY Discarded nodes, use the Retrieve function.</note></p>
  </conbody>
+ <related-links>
+  <link href="Shelve_Manually.dita"></link>
+  <link href="Command_Execute_Verbs.dita"></link>
+ </related-links>
 </concept>

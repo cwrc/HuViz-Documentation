@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_xmf_kzd_w5">
-    <title>Execute Verbs in the Commands Tab</title>
+    <title>Execute Verbs in Commands Tab</title>
     <shortdesc>Actions are automatically executed when a selected Set or Class type is combined with a Verb.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
@@ -30,4 +30,8 @@
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="Reference_CommandsTab.dita"></link>
+        <link href="CurrentCommand_Concept.dita"></link>
+    </related-links>
 </task>

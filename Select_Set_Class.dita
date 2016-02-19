@@ -11,7 +11,7 @@
         </copyright>
         <critdates>
             <created date="2016-02-03"></created>
-            <revised modified="2016-02-03"></revised>
+            <revised modified="2016-02-18"></revised>
         </critdates>
         <metadata product="stand-alone">
             <audience audience="novice"></audience>
@@ -36,4 +36,12 @@
             <li>The nodes are Discarded.</li>
             </ul></postreq>
     </taskbody>
+    <related-links>
+        <link href="Select_Concept.dita"></link>
+        <link href="Select_All.dita"></link>
+        <link href="Select_Manually.dita"></link>
+        <link href="Select_BySearch.dita"></link>
+        <link href="Reference_CommandsTab.dita"></link>
+        <link href="Command_Execute_Verbs.dita"></link>
+    </related-links>
 </task>

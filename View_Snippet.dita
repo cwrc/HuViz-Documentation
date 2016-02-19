@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gl2_tc2_lp">
-    <title>View Snippet</title>
+    <title>View Snippet Window</title>
     <shortdesc>Snippet windows allow users to explore the relationships between nodes in more detail. In the HuViz prototype, the "snippet" of text is extracted from the source entry on the Orlando Project.</shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
@@ -35,12 +35,8 @@
         <postreq>To close window, click the button at the top right. <image href="http://beta.cwrc.ca/islandora/object/cwrc%3Adbb98845-bbb1-4a4d-97d1-785197ee8164/datastream/OBJ/view" id="image_axh_fhs_w5"></image></postreq>
     </taskbody>
     <related-links>
-        <link href="Validate_Document.dita#task_rlb_rf2_lp"></link>
-        <link href="Open_Document_Menu.dita#task_lth_ysb_dp"/>
-        <link href="Open_Document_Toolbar.dita#task_pg2_1tm_jp"/>
-        <link href="Switch_Mode.dita#task_rzm_jl2_np"/>
-        <link href="Edit_Source.dita#task_chh_dp2_np"/>
-        <link href="Edit_Header.dita#task_sd5_tj2_np"/>
-        <link href="Toolbar.dita#reference_avh_ldj_np"/>
+        <link href="EdgesofSelectedNodes_Concept.dita"></link>
+        <link href="ViewEdges.dita"></link>
+        <link href="Graph_EdgeType.dita"></link>
     </related-links>
 </task>

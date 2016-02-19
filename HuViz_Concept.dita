@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zcz_wxx_1v">
+ <title>What is HuViz?</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>Humanities Visualizer (HuViz) is a browser-based tool for visualing linked data.</p>
+  <p>HuViz allows users to explore the relationships between entities -- such as: people, places and organizations -- encoded in the Orlando text database of British Women Writers.</p>
+  <p>The datasets are RDF generated from the Orlando Project textbase.</p>
+ </conbody>
+ <related-links>
+  <link href="Reference_Graph.dita"></link>
+  <link href="Reference_CommandsTab.dita"></link>
+  <link href="Glossary.dita"></link>
+ </related-links>
+</concept>
