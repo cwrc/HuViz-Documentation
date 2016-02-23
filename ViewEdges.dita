@@ -2,12 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_h1w_1dz_1v">
     <title>View Edges</title>
-    <shortdesc>Edges types are displayed both in the Graph and in the Commands Tab.</shortdesc>
+    <shortdesc>Edges are displayed both in the Graph and in the Commands Tab.</shortdesc>
     <taskbody>
         <context>
-            <p>When a user hovers overtop of a Edge, a label appears indicating the Edge type and the number of connections in this category.</p>
-            <p>Edge types can also be viewed in the Commands Tab. The Edges of Selected Nodes bin contains the Edge types associated with any nodes in a Selected state.</p>
-            <note>Clicking on an Edge type will drag those Selected nodes into the central Graph.</note>
+            <p>When a user hovers overtop of a connective line, a label appears indicating the nature of the relationship and the number of connections in this category.</p>
+            <p>Edge can also be viewed in the Commands Tab. The Edges of Selected Nodes bin contains the names of Edges (or relationship types) associated with any nodes in a Selected state.</p>
         </context>
     </taskbody>
     <related-links>

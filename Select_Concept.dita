@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ivk_44k_w5">
  <title>Select</title>
- <shortdesc>The Select function selects nodes to execute a command.</shortdesc>
+ <shortdesc>Use the Select function to choose which nodes to execute a command on.</shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
   <copyright>

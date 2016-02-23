@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_xmx_1kk_w5">
  <title>Shelve</title>
- <shortdesc>The Shelve function returns nodes to the the outer ring that orbits the central graph. </shortdesc>
+ <shortdesc>Return nodes to the the outer ring that orbits the central graph with the Shelve function. </shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
   <copyright>

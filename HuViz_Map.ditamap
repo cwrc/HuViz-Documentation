@@ -2,8 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>HuViz Documentation</title>
+ <topichead navtitle="Welcome to HuViz"></topichead>
   <topicref href="Welcome.ditamap" format="ditamap"></topicref>
+ <topichead navtitle="Getting Started"></topichead>
   <topicref href="Getting_Started_HuViz.ditamap" format="ditamap"></topicref>
+ <topichead navtitle="Explore Connections"></topichead>
  <topicref href="ExploreConnections.ditamap" format="ditamap"></topicref>
  <topichead navtitle="Customize Appearance">
   <topicref href="SettingsGuide.dita"></topicref>

@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_gjd_yxc_w5">
  <title>Hide</title>
- <shortdesc>The hide function temporariy removes nodes from the dataset. </shortdesc>
+ <shortdesc>The Hide function temporariy removes nodes from the dataset. </shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
   <copyright>

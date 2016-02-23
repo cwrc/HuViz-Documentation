@@ -2,12 +2,19 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Getting Started in HuViz</title>
+ <topichead navtitle="Load Dataset"></topichead>
  <topicref href="Load_Dataset.dita"/>
+ <topichead navtitle="Select"></topichead>
  <topicref href="Select.ditamap" format="ditamap"/>
+ <topichead navtitle="Activate"></topichead>
  <topicref href="Activate.ditamap" format="ditamap"/>
+ <topichead navtitle="Shelve"></topichead>
  <topicref href="Shelve.ditamap" format="ditamap"/>
+ <topichead navtitle="Discard and Retrieve"></topichead>
  <topicref href="Discard_Retrieve.ditamap" format="ditamap"/>
+ <topichead navtitle="Hide"></topichead>
  <topicref href="Hide_Concept.dita"/>
+ <topichead navtitle="Pin"></topichead>
  <topicref href="Pin.ditamap" format="ditamap"/>
  <topicref href="Label_Concept.dita"/>
  <topicref href="Command_Execute_Verbs.dita"/>
