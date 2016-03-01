@@ -22,13 +22,13 @@
         <context></context>
         <steps>
             <step>
-                <cmd>Click and hold the node, illuminating the circular green shelf.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Abf2a1941-fc8d-45d5-a7d7-99268f7166bf/datastream/OBJ/view" id="image_fdq_f3g_x5"></image></cmd>
+                <cmd>Click and hold the node, illuminating the circular green shelf.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Abf2a1941-fc8d-45d5-a7d7-99268f7166bf/datastream/OBJ/view" id="image_fdq_f3g_x5" placement="break" align="center" width="11in"></image></cmd>
             </step>
             <step>
-                <cmd>Drag and drop the node inside the circle.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ada165d47-3e75-4e1d-a31f-0058d5d97c5a/datastream/OBJ/view" id="image_pfk_x3g_x5"></image></cmd>
+                <cmd>Drag and drop the node inside the circle.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3Ada165d47-3e75-4e1d-a31f-0058d5d97c5a/datastream/OBJ/view" id="image_pfk_x3g_x5" placement="break" align="center" width="9in"></image></cmd>
             </step>
         </steps>
-        <result>Node has linked with a Hub and is now in an Active state.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A38961bee-08b0-4273-a63a-6b095ef7d411/datastream/OBJ/view" id="image_xzw_yjg_x5"></image></result>
+        <result>Node has linked with a Hub and is now in an Active state.<image href="http://beta.cwrc.ca/islandora/object/cwrc%3A38961bee-08b0-4273-a63a-6b095ef7d411/datastream/OBJ/view" id="image_xzw_yjg_x5" placement="break" align="center" width="9in"></image></result>
     </taskbody>
     <related-links>
         <link href="Activate_Concept.dita"></link>

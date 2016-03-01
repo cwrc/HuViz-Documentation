@@ -10,9 +10,6 @@ available in the base directory of this Oxygen Webhelp plugin.
 html, body, #splitterContainer, #leftPane{
 	height: 100%;
 }
-#leftPane{
-    overflow: hidden;
-}
 div, td {
 font-size: 10pt;
 }
@@ -47,13 +44,7 @@ h1.topictitle1 {
 #tab_nav_tree_placeholder, #searchResults{
     height:90%;
 }
-#expnd {
-    top: -25px;
-    position: relative;
-}
-#tab_nav_tree_placeholder{
-    padding: 20px 0 0 0;
-}
+
 #bck_toc{
     padding:2px 0 0 0;
 }

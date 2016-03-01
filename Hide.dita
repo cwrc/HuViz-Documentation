@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ays_zth_v5">
-    <title>Hide Nodes</title>
+    <title>Hide Nodes in Commands Tab</title>
     <shortdesc>Temporarily remove nodes from the dataset using the following steps. </shortdesc>
     <prolog product="CWRC-Writer">
         <author>Chelsea Miya</author>
@@ -24,12 +24,13 @@
         </context>
         <steps>
             <step>
-                <cmd>Activate desired nodes, either manually or by clicking a Set or Class type.</cmd>
+                <cmd>Select desired nodes, either manually or by clicking a Set or Class type.</cmd>
             </step>
             <step>
                 <cmd>Under Verbs, click "Hide."</cmd>
             </step>
         </steps>
+        <result>As a result, the Selected nodes will removed from the visualization and will no longer appear in the central Graph, Shelf or Discard Bin.</result>
     </taskbody>
     <related-links>
         <link href="Hide_Concept.dita"></link>

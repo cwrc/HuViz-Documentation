@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_ktj_rwd_w5">
   <title>Pin</title>
-  <shortdesc>Fix graphed nodes in place with the Pin function.</shortdesc>
+  <shortdesc>The Pin function fixes or "pins" Graphed nodes in place.</shortdesc>
   <prolog product="CWRC-Writer">
     <author>Chelsea Miya</author>
     <copyright>

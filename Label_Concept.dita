@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_nz4_tth_x5">
- <title>Label</title>
+ <title>Label a Node</title>
  <shortdesc>The Label function displays the node name.</shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>

@@ -2,14 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Welcome to HuViz</title>
- <topichead navtitle="What is HuViz?">
   <topicref href="HuViz_Concept.dita"></topicref>
- </topichead>
  <topichead navtitle="Two Ways to Execute Commands">
   <topicref href="Reference_Graph.dita"></topicref>
-  <topicref href="CommandsTab.ditamap" format="ditamap"/>
+  <topichead navtitle="Using the Commands Tab"><topicref href="CommandsTab.ditamap" format="ditamap"/></topichead>
  </topichead>
- <topichead navtitle="Quick Reference Guide">
   <topicref href="Glossary.dita"></topicref>
- </topichead>
 </map>

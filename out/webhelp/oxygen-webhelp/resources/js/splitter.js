@@ -225,18 +225,13 @@
                 if (typeof eval(debug) == 'function') {
                   //debug('Resize splitter to; A:'+sizeA+' B:'+sizeB);
                 }
-//                if (sizeA==0){
-//                  A.css('overflow','hidden');
-//                  A.css('overflow-y','hidden');
-//                }else{
-//                    if ($("#contentBlock").is(":visible")) {
-//                        A.css('overflow', 'auto');
-//                        A.css('overflow-y', 'auto');
-//                    } else {
-//                        A.css('overflow','hidden');
-//                        A.css('overflow-y','hidden');
-//                    }
-//                }
+                if (sizeA==0){
+                  A.css('overflow','hidden');                  
+                  A.css('overflow-y','hidden');
+                }else{
+                  A.css('overflow','auto');
+                  A.css('overflow-y','auto');                  
+                }
                 // oXygen patch end
                 if(fast){
                     A.show().css(opts.sizing,sizeA+'px');

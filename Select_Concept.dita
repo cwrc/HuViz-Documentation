@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ivk_44k_w5">
  <title>Select</title>
- <shortdesc>Use the Select function to choose which nodes to execute a command on.</shortdesc>
+ <shortdesc>Before a command can be performed, the user must first Select the desired nodes.  Use the Select function to choose which nodes to execute a command on.</shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
   <copyright>
@@ -19,7 +19,6 @@
   </metadata>
  </prolog>
  <conbody>
-  <p>Before a command can be performed, the user must first Select the desired nodes. </p>
   <p>There are <b>three</b> ways of Selecting nodes:<table frame="all" rowsep="1" colsep="1" id="table_fbs_jzg_x5">
    <title>Methods of Selecting Nodes</title>
    <tgroup cols="2">
@@ -49,7 +48,6 @@
        </ul>
       </entry>
      </row>
-     <row></row>
     </tbody>
    </tgroup>
    </table></p>
