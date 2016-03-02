@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ivk_44k_w5">
  <title>Select</title>
- <shortdesc>Before a command can be performed, the user must first Select the desired nodes.  Use the Select function to choose which nodes to execute a command on.</shortdesc>
+ <shortdesc>Use the Select function to choose which nodes to execute a command on.</shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
   <copyright>
@@ -23,7 +23,7 @@
    <title>Methods of Selecting Nodes</title>
    <tgroup cols="2">
     <colspec colname="c1" colnum="1" colwidth="1*"></colspec>
-    <colspec colname="c2" colnum="2" colwidth="5.67*"></colspec>
+    <colspec colname="c2" colnum="2" colwidth="4.02*"></colspec>
     <thead>
      <row>
       <entry>Workspace</entry>
@@ -52,48 +52,9 @@
    </tgroup>
    </table></p>
   <p>Once nodes have been selected, future actions will be performed only on those nodes and can be executed by clicking a Verb or sequence of Verbs.</p>
-  <p>It is easy to differentiate between Selected and Unselected nodes:<table frame="all" rowsep="1" colsep="1" id="table_ypr_vxk_w5">
-   <title>Identifying Selected Nodes:</title>
-   <tgroup cols="2">
-    <colspec colname="c1" colnum="1" colwidth="1*"></colspec>
-    <colspec colname="c2" colnum="2" colwidth="5.67*"></colspec>
-    <thead>
-     <row>
-      <entry>Location</entry>
-      <entry>Characteristic</entry>
-     </row>
-    </thead>
-    <tbody>
-     <row>
-      <entry>Set/Class Bins</entry>
-      <entry>
-       <ul id="ul_hf2_31h_x5">
-        <li>Selected Set or Class types will have a darker shade.</li>
-       </ul>
-      </entry>
-     </row>
-     <row>
-      <entry>Current Command Line</entry>
-      <entry>
-       <ul id="ul_g11_gyk_w5">
-        <li>If nodes were selected by type, the name of the Set or Class type will be listed.</li>
-        <li>If nodes were selected in the Graph (by manually clicking the nodes), an abreviated version of the node names will be listed.</li>
-       </ul>
-      </entry>
-     </row>
-     <row>
-      <entry>Graph</entry>
-      <entry>
-       <ul id="ul_akx_31h_x5">
-        <li>Selected nodes will be bolded.</li>
-       </ul>
-      </entry>
-     </row>
-    </tbody>
-   </tgroup>
-   </table></p>
  </conbody>
  <related-links>
+  <link href="Select_Identify.dita"></link>
   <link href="Select_All.dita"></link>
   <link href="Select_Manually.dita"></link>
   <link href="Select_Set_Class.dita"></link>

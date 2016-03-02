@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_gjd_yxc_w5">
- <title>Hide</title>
+ <title>Hide a Node</title>
  <shortdesc>The Hide function removes nodes from the visualization. </shortdesc>
  <prolog product="CWRC-Writer">
   <author>Chelsea Miya</author>
